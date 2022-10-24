@@ -2,8 +2,8 @@
 
 ## ✨ Services we are providing:
 - 🔨 Free Smart Contract security check. (FREE)
-- 🔧 Standart Smart Contract security audit. (₿₿)
-- 🛠 Full Smart Contract security audit. (₿₿₿)
+- 🔧 Standard Smart Contract security audit. (₿₿)
+- 🛠 Premium Smart Contract security audit. (₿₿₿)
 
 ## ✅ Supported Blockchains:
 - Ethereum
@@ -21,3 +21,7 @@
 - Dogechain
 - Fantom
  
+### Contact Us:
+- 📩: ```contact@hlabz.cc````
+- 🐦: https://twitter.com/HLABZcc
+- 🌐: https://www.hlabz.cc/
