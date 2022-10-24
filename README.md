@@ -1,4 +1,4 @@
-# Public Smart Contract Security Audit Reports 🧠 done by HLABZcc
+# Public Smart Contract Security Audits 🧠 done by HLABZcc
 
 ## Services we are providing:
 - 🔨 Free Smart Contract security check. (FREE)
@@ -20,3 +20,4 @@
 - Optimism
 - Dogechain
 - Fantom
+ 
