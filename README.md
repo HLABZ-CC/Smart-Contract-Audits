@@ -1,11 +1,11 @@
-# Public Smart Contract Security Audits 🧠 done by HLABZcc
+# Public Smart Contract Security Audits 🧠
 
-## Services we are providing:
+## ✨ Services we are providing:
 - 🔨 Free Smart Contract security check. (FREE)
 - 🔧 Standart Smart Contract security audit. (₿₿)
 - 🛠 Full Smart Contract security audit. (₿₿₿)
 
-## Supported Blockchains:
+## ✅ Supported Blockchains:
 - Ethereum
 - Binance Smart Chain
 - Polygon
