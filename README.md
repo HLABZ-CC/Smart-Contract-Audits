@@ -13,7 +13,7 @@
 - MoonRiver
 - Avalanche
 - Aurora
-- Cronos
+- Cronos 
 - KuCoin
 - Harmony
 - Arbitrum
